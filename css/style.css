@@ -49,8 +49,8 @@ label {
     height: 40px;
     line-height: 40px;
     border-radius: 50%;
-    background: #1de48e;
-    background: #1de48e;
+    background: #27ebee;
+    background: #27ebee;
     text-align: center; 
     font-size: 22px;
     color: #ffffff;
@@ -100,8 +100,8 @@ label {
 .pluse::before,
 .pluse2::after,
 .pluse2::before {
-    background: #1de48e;
-    background: #1de48e;
+    background: #27ebee;
+    background: #27ebee;
   border-radius: 50%;
   left: 50%;
   top: 50%;
@@ -417,12 +417,12 @@ nav {
 
 
 .hero-title h2 {
-    color: #1de48e;
+    color: #27ebee;
     text-align: center;
     text-transform: uppercase;
     -webkit-text-stroke-color: transparent;
     -webkit-text-stroke-width: 2px;
-    -webkit-text-fill-color: #1de48e;
+    -webkit-text-fill-color: #27ebee;
     text-shadow: 3px 5px 0px #000;
     -webkit-text-stroke-width: 3;
     -webkit-text-stroke-color: #000;
@@ -478,14 +478,14 @@ nav {
 }
 .hero-title ul li:first-of-type a{
     border-radius: 5px;
-    background: #1de48e;
+    background: #27ebee;
     color: #000; 
 }
 .hero-title ul li:last-of-type a{
     border-radius: 5px;
     padding: 15px;
-    color:#1de48e;
-    border: 2px solid #1de48e;
+    color:#27ebee;
+    border: 2px solid #27ebee;
 }
 
 
@@ -523,7 +523,7 @@ nav {
 }
 
 .about-left h2 {
-    color: #1de48e;
+    color: #27ebee;
     text-shadow: 3px 4px 0px #000;
     -webkit-text-stroke-width: 2;
     -webkit-text-stroke-color: #000;
@@ -606,7 +606,7 @@ nav {
 }
 
 .tokenomic-title h2 {
-    color: #1de48e;
+    color: #27ebee;
     text-shadow: 3px 4px 0px #000;
     -webkit-text-stroke-width: 2;
     -webkit-text-stroke-color: #000;
@@ -647,7 +647,7 @@ nav {
 }
 .copy-notification {
     color: #fff;
-    background-color: #1de48e;
+    background-color: #27ebee;
     padding: 20px;
     border-radius: 30px;
     position: fixed;
@@ -663,7 +663,7 @@ nav {
 
 
 .token-left-item h2{
-    color: #1de48e;
+    color: #27ebee;
     font-family: "Luckiest Guy";
     font-size: 20px;
     font-style: normal;
@@ -696,7 +696,7 @@ nav {
     text-transform: capitalize;
 }
 .Token_Address p{
-    color: #1de48e;
+    color: #27ebee;
     font-family: "Luckiest Guy";
     font-size: 14px;
     font-style: normal;
@@ -720,7 +720,7 @@ nav {
 
 }
 .token-right h3{
-    color: #1de48e;
+    color: #27ebee;
     font-family: "Luckiest Guy";
     font-size: 20px;
     font-style: normal;
@@ -787,7 +787,7 @@ nav {
     text-transform: capitalize;
 }
 .tr-rr2 li{
-    color: #1de48e !important; 
+    color: #27ebee !important; 
 }
 main{
     background-image: url(../images/FOOTER-BG.png);
@@ -808,7 +808,7 @@ body{
 }
 
 .roadmap-title h2{
-    color: #1de48e;
+    color: #27ebee;
     text-align: center;
     text-shadow: 3px 4px 0px #000;
     -webkit-text-stroke-width: 2;
@@ -848,7 +848,7 @@ body{
 }
 
 .roadm-t h2 {
-    color: #1de48e;
+    color: #27ebee;
     font-family: "Luckiest Guy";
     font-size: 20px;
     font-style: normal;
@@ -906,7 +906,7 @@ footer {
     margin-top: 100px;
 }
 .footer-left-inner h3{
-    color: #1de48e;
+    color: #27ebee;
     text-align: center;
     text-shadow: 3px 4px 0px #000;
     -webkit-text-stroke-width: 2;
